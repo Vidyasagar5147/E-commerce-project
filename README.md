@@ -73,4 +73,4 @@ The following modules were thoroughly tested:
 ## 📌 Conclusion  
 This manual testing project successfully identified *critical defects* and provided *insights* to enhance the e-commerce website’s *usability and reliability. The detailed **test execution report* ensures improved quality and a *seamless shopping experience* for users.  
 
-🔗 *Explore the project and contribute to its improvement!*
+
