@@ -15,21 +15,21 @@ The objective of this project is to:
 
 ## 🔍 Tested Modules  
 The following modules were thoroughly tested:  
-- 🔹 *Signup*  
-- 🔹 *Login*  
-- 🔹 *Logout*  
-- 🔹 *Homepage*  
-- 🔹 *Search*  
-- 🔹 *Forgot Password*  
-- 🔹 *My Account*  
-- 🔹 *Address Book*  
-- 🔹 *Wishlist*  
-- 🔹 *Add to Cart*  
-- 🔹 *Product Details*  
-- 🔹 *Checkout*  
-- 🔹 *Contact Us*  
-- 🔹 *Customer Service*  
-- 🔹 *Global Settings*  
+  🔹 *Signup*  
+  🔹 *Login*  
+  🔹 *Logout*  
+  🔹 *Homepage*  
+  🔹 *Search*  
+  🔹 *Forgot Password*  
+  🔹 *My Account*  
+  🔹 *Address Book*  
+  🔹 *Wishlist*  
+  🔹 *Add to Cart*  
+  🔹 *Product Details*  
+  🔹 *Checkout*  
+  🔹 *Contact Us*  
+  🔹 *Customer Service*  
+  🔹 *Global Settings*  
 
 ---
 
